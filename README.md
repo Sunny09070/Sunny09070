@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sunny09070
+- 👀 I’m interested in learing new skills 
+- 🌱 I’m currently learning data science and machine learning
